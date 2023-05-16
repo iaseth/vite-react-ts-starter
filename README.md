@@ -74,11 +74,14 @@ You can view the source file [here](https://github.com/iaseth/vite-react-ts-star
 | 3   | `@typescript-eslint/eslint-plugin` | `^5.57.1`   |
 | 4   | `@typescript-eslint/parser`        | `^5.57.1`   |
 | 5   | `@vitejs/plugin-react`             | `^4.0.0`    |
-| 6   | `eslint`                           | `^8.38.0`   |
-| 7   | `eslint-plugin-react-hooks`        | `^4.6.0`    |
-| 8   | `eslint-plugin-react-refresh`      | `^0.3.4`    |
-| 9   | `typescript`                       | `^5.0.2`    |
-| 10  | `vite`                             | `^4.3.2`    |
+| 6   | `autoprefixer`                     | `^10.4.14`  |
+| 7   | `eslint`                           | `^8.38.0`   |
+| 8   | `eslint-plugin-react-hooks`        | `^4.6.0`    |
+| 9   | `eslint-plugin-react-refresh`      | `^0.3.4`    |
+| 10  | `postcss`                          | `^8.4.23`   |
+| 11  | `tailwindcss`                      | `^3.3.2`    |
+| 12  | `typescript`                       | `^5.0.2`    |
+| 13  | `vite`                             | `^4.3.2`    |
 
 
 
