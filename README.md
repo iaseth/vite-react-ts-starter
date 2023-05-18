@@ -1,7 +1,10 @@
 
 # vite-react-ts-starter
 This is the template I use to get up and running with a new React App in 2023.
-It was created with `Vite` and uses `TypeScript`.
+It was created with `Vite` with the following command:
+```
+npm create vite@latest vite-react-ts-starter -- --template react-ts
+```
 
 
 I am using [`readmix`](https://github.com/iaseth/readmix) for generating this README.

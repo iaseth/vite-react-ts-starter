@@ -2,7 +2,7 @@ import './App.css';
 
 
 
-function App () {
+export default function App () {
 
 	return (
 		<div className="min-h-screen bg-green-100 text-white flex">
@@ -13,5 +13,3 @@ function App () {
 		</div>
 	);
 }
-
-export default App;
