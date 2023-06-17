@@ -1,7 +1,11 @@
 
 
 
-export default function Main () {
+interface MainProps {
+	//
+}
+
+export default function Main ({}: MainProps) {
 	return (
 		<main className="grow px-2 py-4 bg-zinc-100">
 			<section className="">
