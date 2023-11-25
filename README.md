@@ -53,11 +53,11 @@ You can view the source file [here](https://github.com/iaseth/vite-react-ts-star
 
 
 ## Package details
-| `Name`         | `Value`                 |
-| -------------- | ----------------------- |
-| `Name`         | `vite-react-ts-starter` |
-| `Version`      | `0.0.0`                 |
-| `Dependencies` | `2`                     |
+| `Name`         | `Value`   |
+| -------------- | --------- |
+| `Name`         | `starter` |
+| `Version`      | `0.0.0`   |
+| `Dependencies` | `2`       |
 
 
 
@@ -72,19 +72,19 @@ You can view the source file [here](https://github.com/iaseth/vite-react-ts-star
 ## Dev dependencies
 |     | `Package`                          | `Version`   |
 | --- | ---------------------------------- | ----------- |
-| 1   | `@types/react`                     | `^18.0.28`  |
-| 2   | `@types/react-dom`                 | `^18.0.11`  |
-| 3   | `@typescript-eslint/eslint-plugin` | `^5.57.1`   |
-| 4   | `@typescript-eslint/parser`        | `^5.57.1`   |
-| 5   | `@vitejs/plugin-react`             | `^4.0.0`    |
-| 6   | `autoprefixer`                     | `^10.4.14`  |
-| 7   | `eslint`                           | `^8.38.0`   |
+| 1   | `@types/react`                     | `^18.2.37`  |
+| 2   | `@types/react-dom`                 | `^18.2.15`  |
+| 3   | `@typescript-eslint/eslint-plugin` | `^6.10.0`   |
+| 4   | `@typescript-eslint/parser`        | `^6.10.0`   |
+| 5   | `@vitejs/plugin-react`             | `^4.2.0`    |
+| 6   | `autoprefixer`                     | `^10.4.16`  |
+| 7   | `eslint`                           | `^8.53.0`   |
 | 8   | `eslint-plugin-react-hooks`        | `^4.6.0`    |
-| 9   | `eslint-plugin-react-refresh`      | `^0.3.4`    |
-| 10  | `postcss`                          | `^8.4.23`   |
-| 11  | `tailwindcss`                      | `^3.3.2`    |
-| 12  | `typescript`                       | `^5.0.2`    |
-| 13  | `vite`                             | `^4.3.2`    |
+| 9   | `eslint-plugin-react-refresh`      | `^0.4.4`    |
+| 10  | `postcss`                          | `^8.4.31`   |
+| 11  | `tailwindcss`                      | `^3.3.5`    |
+| 12  | `typescript`                       | `^5.2.2`    |
+| 13  | `vite`                             | `^5.0.0`    |
 
 
 
