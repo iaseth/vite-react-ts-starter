@@ -12,6 +12,6 @@ module.exports = {
 	rules: {
 		'react-refresh/only-export-components': 'warn',
 		semi: ["error", "always"],
-		indent: ["error", "tab"],
+		indent: ["error", "tab", { "SwitchCase": 1 }],
 	},
 };
