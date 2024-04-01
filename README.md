@@ -53,11 +53,11 @@ You can view the source file [here](https://github.com/iaseth/vite-react-ts-star
 
 
 ## Package details
-| `Name`         | `Value`   |
-| -------------- | --------- |
-| `Name`         | `starter` |
-| `Version`      | `0.0.0`   |
-| `Dependencies` | `2`       |
+| `Name`         | `Value`           |
+| -------------- | ----------------- |
+| `Name`         | `starter-project` |
+| `Version`      | `0.0.0`           |
+| `Dependencies` | `3`               |
 
 
 
@@ -66,6 +66,7 @@ You can view the source file [here](https://github.com/iaseth/vite-react-ts-star
 | --- | ----------- | ----------- |
 | 1   | `react`     | `^18.2.0`   |
 | 2   | `react-dom` | `^18.2.0`   |
+| 3   | `redicons`  | `^1.5.0`    |
 
 
 
