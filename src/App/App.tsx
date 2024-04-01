@@ -11,7 +11,7 @@ red.addIcons(rediconsJson.icons);
 export default function App () {
 
 	return (
-		<div className="min-h-screen flex flex-col">
+		<div className="bg-zinc-900 text-white">
 			<Header />
 			<Main />
 			<Footer />
