@@ -5,8 +5,9 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
+    "devo": "vite --host",
     "build": "tsc -b && vite build",
-    "lint": "eslint . --ext ts,tsx --report-unused-disable-directives --max-warnings 0",
+    "lint": "eslint --report-unused-disable-directives --max-warnings 0 src",
     "preview": "vite preview"
   },
   "dependencies": {
